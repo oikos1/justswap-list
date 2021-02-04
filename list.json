@@ -1,0 +1,27 @@
+{
+   "name": "OikosList",
+   "logoURI": "https://coin.top/production/upload/logo/TWVVcRqRmpyAi9dASvTXrqnS7FrwvDezMn.png",
+   "timestamp": 1612409678431, #Update time in millisecond
+   "tokens": [{
+           "chainId": 1, #ChainId, which is currently 1
+           "address": "TWVVcRqRmpyAi9dASvTXrqnS7FrwvDezMn", #Token address
+           "name": "Oikos Network Token", #Token name
+           "symbol": "OKS", #Token symbol
+           "decimals": 18, #Token decimals
+           "logoURI": "https://coin.top/production/upload/logo/TWVVcRqRmpyAi9dASvTXrqnS7FrwvDezMn.png"
+       },
+       {
+           "chainId": 1,
+           "address": "TVricqsN3bHXeyZybX7Agw6hn8Y2XdKrMH",
+           "name": "sUSD",
+           "symbol": "sUSD",
+           "decimals": 18,
+           "logoURI": "https://oikos.exchange/images/synths/sUSD-icon.svg"
+       }
+   ],
+   "version": {
+       "major": 1,
+       "minor": 0,
+       "patch": 0
+   }
+}
